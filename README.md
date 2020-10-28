@@ -1,7 +1,9 @@
 # A86_AssemblyInterpreter
 
 @author Can Atakan Ugur https://github.com/bnbcfyh
+
 @author Yusuf Bayindir  https://github.com/bayndrysf
+
 @date   11.04.2020
 
 Interpreter for an Assembly Language of a hypothetical 8086-like CPU called HYP86
